@@ -11,13 +11,13 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRG1WcERMbE1hekxEUDlHUjlSMU1q
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRnU4RVZFbW5sR2dVZUgrdnBNMmladz0
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPNoticias.pt.png" group-title="Informação",RTP Notícias
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUFk1M2hTdmFoK2V3MWUzRXlOWDdKWT0
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNNPortugal.pt.png" group-title="Informação",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/CNN_Portugal_boxless_2021.svg" group-title="Informação",CNN Portugal
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ0RaU1dReEpTMkRhd2VIZ2wvQ1BhOD0
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMTV.pt.png" group-title="Informação",CMTV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTT3AySXBCNWd6WGhUWXpUaVYyM2Nhbz0
 #EXTINF:-1 tvg-id="NewsNow.pt" tvg-name="NEWS NOW" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NewsNow.pt.png" group-title="Informação",NEWS NOW
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTytNazZHNCs4ZkdWYjc0N2FiTEpFUT0
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTVPlus.pt.png" group-title="Desporto",SPORT TV +
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/3840px-Sport_TV%2B_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Desporto",SPORT TV +
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTGFYWk5rYjZlRERxTVVpelgyTXpXaz0
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal11.pt.png" group-title="Desporto",CANAL 11
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTXFYam5RcHNFYnJRemF3Mm9NNyt1ST0
@@ -25,8 +25,6 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTXFYam5RcHNFYnJRemF3Mm9NNyt1
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3d2UnZLaUZpdVpxS21DMzV3bVNvQT0
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIReality.pt.png" group-title="Entretenimento",TVI REALITY
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3lYSE9zQmQ1SGZQK0h1SVVkZEh6dz0
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY | MOSAICO" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIReality.pt.png" group-title="Entretenimento",TVI REALITY | MOSAICO
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUFVIN28vZjRRQndiNmVUOU5WRjdCMD0
 #EXTINF:-1 tvg-id="" tvg-name="TVI REALITY | CAM 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIReality.pt.png" group-title="Entretenimento",TVI REALITY | CAM 1
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3JCanB5Y1hxd2pNSXJwSUZXcW5Dbz0
 #EXTINF:-1 tvg-id="" tvg-name="TVI REALITY | CAM 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIReality.pt.png" group-title="Entretenimento",TVI REALITY | CAM 2
@@ -35,6 +33,8 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ0pvQ0FUQ05sZEkzL2h4TkVZdHQx
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTXM5eWpUZmE3ejdyejZzS09SN1FUYz0
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY | CAM 4" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIReality.pt.png" group-title="Entretenimento",PT: TVI REALITY | CAM 4
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTREQvZE5iS0Y4dU9TcUszNmhzNHVoQT0
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY | MOSAICO" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIReality.pt.png" group-title="Entretenimento",TVI REALITY | MOSAICO
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUFVIN28vZjRRQndiNmVUOU5WRjdCMD0
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC MULHER" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SICMulher.pt.png" group-title="Entretenimento",SIC MULHER
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTllwaXlVOVBFbU5KT3VhazlPaDhLbz0
 #EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC CARAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SICCaras.pt.png" group-title="Entretenimento",SIC CARAS
@@ -45,24 +45,24 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUHg0R2tVU2t1Y0M4WjlqbVNFbHhj
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUFR1ZjUyRVZadGJOUkVEZUk2R2RMQT0
 #EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-name="V+" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VPlusTVI.pt.png" group-title="Entretenimento",V+
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQkdLSnQvWlBMUmJyQWNXYmNXWW9EWT0
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 EXTRA" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Desporto",SPORT TV 1 EXTRA
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRHNCSlhqUXFoTmFxTVhHSDNYOGxROD0
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV1.pt.png" group-title="Desporto",SPORT TV 1
+#EXTINF:-1 tvg-id="Canalnostv.pt" tvg-name="CANAL NOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/NOS.svg" group-title="Informação",CANAL NOS
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTmNYaTM2VlMvUFdLMnBzNlFaK2ZVTT0
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_(2023).svg/3840px-Sport_TV1_(2023).svg.png" group-title="Desporto",SPORT TV 1
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTmZsQWVPMHZOb25kdU1ZYlBGTlNFUT0
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV2.pt.png" group-title="Desporto",SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV MULTICAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Sport_TV_2023.svg/" group-title="Desporto",SPORT TV MULTICAM
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSGNJVFdsQ3c3TkJiWFRRUDgvWTQrOD0
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/3840px-Sport_TV2_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Desporto",SPORT TV 2
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRjJJalV2VzB6OUp0TkVxQVlWYW5vND0
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV3.pt.png" group-title="Desporto",SPORT TV 3
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/3840px-Sport_TV3_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Desporto",SPORT TV 3
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTjZHZlZSQitsLzliL3dWa0tDN2ZKZz0
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV4.pt.png" group-title="Desporto",SPORT TV 4
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/3840px-Sport_TV4_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Desporto",SPORT TV 4
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRi9SK2JlOXNXVEpML0YzR1U0TDdFZz0
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV5.pt.png" group-title="Desporto",Sport TV 5
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/3840px-Sport_TV5_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Desporto",Sport TV 5
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRisxQTdvc0hSWlBwL1gvNFVGNzhEdz0
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV6.pt.png" group-title="Desporto",SPORT TV 6
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="SPORT TV 6" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/3840px-Sport_TV6_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Desporto",SPORT TV 6
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUENMVDZra3U3aWtCOEMxZWxVMGozRT0
-#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SportTV7.pt.png" group-title="Desporto",Sport TV 7
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sport_TV_7_2024.svg/" group-title="Desporto",Sport TV 7
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQVdzWXhnakJXbmNRbExDL0czWmtGaz0
-#EXTINF:-1 tvg-id="" tvg-name="BTV EXPERIENCE" tvg-logo="https://i.postimg.cc/g2y2CVqP/Screenshot-20240121-020847-Firefox.jpg" group-title="Desporto",BTV EXPERIENCE
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS0IveG9jb0M0S2NNS1BiNUg3SFJqND0
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BenficaTV.pt.png" group-title="Desporto",BTV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS1R0WFludDUxOEI2NlpTMDlCODJLUT0
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PORTO CANAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PortoCanal.pt.png" group-title="Generalistas",PORTO CANAL
@@ -87,6 +87,18 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQmYwd2gxVjgybXdldnRzN1JvMjlX
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTR0V0VnNTcStjRXZFQStNQS9oMVBkRT0
 #EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eurosport2.pt.png" group-title="Desporto",EUROSPORT 2
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3YzbEN3YWpmbTdRMDM3VzgyaGRwVT0
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="http://live21.site/picons/PTs/CACAVISION_meo.png" group-title="Desporto",PT: CACAVISION
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRHJlMmpUNTFIRS9wZi8zZFo3cDRPaz0
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO TV HD" tvg-logo="s:1:/images/QCGm8m9T49XhnLQmrWzqsiQQvi41tVFIg1Qe2-h_QOdTI1WmPsznDA-JgneMaJDUygvVj1AZjb-ohaZ9oH65xg.png" group-title="Desporto",PT: CAMPO PEQUENO TV HD
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQW5IQURMd2tEYmk0UzRQMmtqQVFPbz0
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="http://live21.site/picons/PTs/PFC_nos.png" group-title="Desporto",PT: PFC
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTVYyQzBxVDRHY2ZVbWM1dksydWx5az0
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxDnecYSmpgvhTHKFvVW2K8.png" group-title="Desporto",REAL MADRID
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTVBucHFFbUlTZGhjOU1xT1lwQXhLdz0
+#EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RedBullTV.at.png" group-title="Desporto",PT: REDBULL TV HD
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSmttL3RPV2NseUQ1bDRyRmNQN2NFdz0
+#EXTINF:-1 tvg-id="" tvg-name="BTV EXPERIENCE" tvg-logo="https://i.postimg.cc/g2y2CVqP/Screenshot-20240121-020847-Firefox.jpg" group-title="Desporto",BTV EXPERIENCE
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS0IveG9jb0M0S2NNS1BiNUg3SFJqND0
 #EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="DISNEY JUNIOR" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DisneyJunior.pt.png" group-title="Infantil",DISNEY JUNIOR
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRjVkamhSc2tPcUxnaWF6ckU5VVVZTT0
 #EXTINF:-1 tvg-id="NickJr.pt" tvg-name="PT: NICK JR" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NickJr.pt.png" group-title="Infantil",PT: NICK JR
@@ -107,6 +119,10 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRkVHMU42Z0t2YVhKd0RrdUVtVUhJ
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTT1NyNnhWcHlESVpadElQRGZmbmZjWT0
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyTV.uk.png" group-title="Infantil",BABY TV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSEVNbzhhNXZpQ043ZUR4aDgwSEZvZz0
+#EXTINF:-1 tvg-id="" tvg-name="GINX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/GINX_TV.svg" group-title="Infantil",GINX
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRnFIWWR0eTB3UjlXbXZxeEZmbWZIaz0
+#EXTINF:-1 tvg-id="" tvg-name="LOLLY KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Large.KidsStars-logohq.png.78383e6209113513ce959671d3494e14.png" group-title="Infantil",LOLLY KIDS
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRUtVTUNPT3JKZUdySlZJWUF6THYyND0
 #EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV CINE TOP" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCineTop.pt.png" group-title="Filmes e Séries",TV CINE TOP
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSEI4NlBNVXlRUy82b3JzK3JYdi9tZz0
 #EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV CINE EDITION" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCineEdition.pt.png" group-title="Filmes e Séries",TV CINE EDITION
@@ -137,6 +153,12 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3pXZUdGWWJEcU9jc1lOdm40S05U
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRU5tWFNoT3NyeWdKUDMwdzArK2RFQT0
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN WHITE" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AXNWhite.pt.png" group-title="Filmes e Séries",AXN WHITE
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTitSRUxFaHNCOVpEcE82S1IrbFRTMD0
+#EXTINF:-1 tvg-id="VinTV.pt" tvg-name="VinTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/VinTV_Portugal_2026.svg/" group-title="Filmes e Séries",VinTV
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQW9NdVNKNkRKNTJCK3VJYmlBWmJ4UT0
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="CINEMUNDO" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CineMundo.pt.png" group-title="Filmes e Séries",CINEMUNDO
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS2hPOGMxZUtCT0JiSWdoQkdTT2Iybz0
+#EXTINF:-1 tvg-id="" tvg-name="OPTO SIC" tvg-logo="https://opto.sic.pt/logos/opto-logo.png" group-title="Filmes e Séries",OPTO SIC
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTU02ZzVPOWN6bk9nRTlFMTJUVmJnaz0
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DiscoveryChannel.pt.png" group-title="Documentários",DISCOVERY
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ1JzUkpvblBQU2JROUlEUytiNTdJQT0
 #EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NationalGeographic.pt.png" group-title="Documentários",NATIONAL GEOGRAPHIC
@@ -145,15 +167,15 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTG1aVHM0T3lEVGFxUE1uTHVqL01U
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSWtib1g5emxnZ0hnS3liNEdjRVdNTT0
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="ODISSEIA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Odisseia.pt.png" group-title="Documentários",ODISSEIA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSFgyek13SDZSWlNib29jZlEzdGhsaz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="http://live21.site/picons/PTs/TRAVEL_CHANNEL_nos.png" group-title="Documentários",PT: TRAVEL CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Travel_Channel_2018_full.svg" group-title="Documentários",TRAVEL CHANNEL
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSnlaTVhTK1pXMEtSN0NDaTVhZ04vTT0
 #EXTINF:-1 tvg-id="Historia.pt" tvg-name="HISTORIA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Historia.pt.png" group-title="Documentários",HISTORIA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEVWNFRGaEVWaDZhelphb2lmU3lGUT0
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="PT: AMC Crime" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AMCCrime.pt.png" group-title="Documentários",PT: AMC Crime
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AMCCrime.pt.png" group-title="Documentários",AMC Crime
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUDM0MnU5YUtwNzhURW9jdjB4R3M5Yz0
 #EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AMCBreak.pt.png" group-title="Documentários",AMC Break
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSG5za3piRmwrc3lPeVVGeElYcVBWVT0
-#EXTINF:-1 tvg-id="" tvg-name="iID INVESTIGATION DISCOVERY" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/InvestigationDiscoveryEurope.us.png" group-title="Documentários",iID INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/InvestigationDiscoveryEurope.us.png" group-title="Documentários",ID INVESTIGATION DISCOVERY
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTTJpeXc0WVpkVWNncm9EN0Y1aWNpcz0
 #EXTINF:-1 tvg-id="SPlus.pt" tvg-name="S+" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SPlus.pt.png" group-title="Entretenimento",S+
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQkVNMk92V2JwVmRJdndGbURBZSt4az0
@@ -179,10 +201,10 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRGdiNnpiNGJUR05sS00xSExiVDdT
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEh6S3ltZGRJb3V5eW5KMnlUbThkVT0
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FUELTV.at.png" group-title="Desporto",FUEL TV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRGFJOEd6S09CakFtRFJ6cjB4bUNiYz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision.de.png" group-title="Desporto",PT: MOTORVISION HD
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQzRhSFpjaUk0OXNsYVRjVUxUamVodz0
 #EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision.de.png" group-title="Desporto",PT: MOTORVISION
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQkFsS20rY2RpYUVhWjVJcnRHZkl4cz0
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision.de.png" group-title="Desporto",PT: MOTORVISION HD
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQzRhSFpjaUk0OXNsYVRjVUxUamVodz0
 #EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Fight_Network_HD.svg" group-title="Desporto",FIGHT NETWORK HD
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSnF2czRoWW05RVNaUTg4RmhHR2cvQT0
 #EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MCMTop.fr.png" group-title="Música",MCM TOP
@@ -193,12 +215,18 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTDdBNHYrS2JXWWF1QUJvaWU1S0VP
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQkM0c2VFT3BzV011RUw2OEoxWlV2RT0
 #EXTINF:-1 tvg-id="" tvg-name="STINGRAY ICONCERTS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/StingrayiConcerts.ca.png" group-title="Música",STINGRAY ICONCERTS
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRTZURUx0UFMrQThpY1NZbUNoK3Zncz0
-#EXTINF:-1 tvg-id="AfroMusicChannel.pt" tvg-name="AFRO MUSIC" tvg-logo="http://live21.site/picons/PTs/AFRO_MUSIC_meo.png" group-title="Música",AFRO MUSIC
+#EXTINF:-1 tvg-id="AfroMusicChannel.pt" tvg-name="AFRO MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/AFRO_MUSIC.png" group-title="Música",AFRO MUSIC
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSGgwSkJzUGRDREdlWFNnaUxVdXVzdz0
 #EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceToca.fr.png" group-title="Música",TRACE TOCA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSkxLZ0srTU1aT3MvRUY0cGtMeUFoWT0
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceUrban.fr.png" group-title="Música",TRACE URBAN
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSzRTa2k2TzNPYUt3dHNTbHJ4bU13RT0
+#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="ALMA LUSA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Logo-channel-c686df60-9ab4-11ea-84f1-15e394418217-250x250.png" group-title="Música",ALMA LUSA
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUFZTcGRWM0cyZDF0VU01RTY5U2NBcz0
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBING TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ClubbingTV.us.png" group-title="Música",CLUBBING TV
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3M3NUx1cWphSFQweXdHUjExWDBOdz0
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo Portugal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8h-VsaJ5CDpC7gXWHRFmQNXke4J_JcXqnWvV_WHhQfQGaoce_W2yVY9ZT24Cvxb0mvoY&usqp=CAU" group-title="Música",Novo Tempo Portugal
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEdPK0VXMkdUM3hvUGROM01iZFdsYz0
 #EXTINF:-1 tvg-id="" tvg-name="PT: RECORD NEWS" tvg-logo="http://live21.site/picons/PTs/RECORD_NEWS_meo.png" group-title="Internacional",PT: RECORD NEWS
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTkNzaC9QUHo4WWRQZGRMYkNXOG00ND0
 #EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Internacional",Record News HD
@@ -207,155 +235,83 @@ http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS000SHZuNXN5S1Q5M3VGK1MyNGU4
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTlYxdTZLNkc5N2VOZVZaVDR0Q1lYcz0
 #EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-name="PT: TV RECORD HD [hevc]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RecordTVEuropa.pt.png" group-title="Internacional",PT: TV RECORD HD [hevc]
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQzV4K2F1eXZqMVYzUGp4VmJ5a1BZOD0
-#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-name="TV Record FHD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RecordTVEuropa.pt.png" group-title="Internacional",TV Record FHD
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTREs1dDUrYTkxYnVjNzIxU2FYeHNobz0
-#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-name="TV Record" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RecordTVEuropa.pt.png" group-title="Internacional",TV Record
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSk5oVkdLVyt2bjNlV1BybHEwVFduST0
 #EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-name="PTL: TV RECORD LOW" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RecordTVEuropa.pt.png" group-title="Internacional",PTL: TV RECORD LOW
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUHE3OHRBKzNEZFQxQTJ6MERLcmxFOD0
-#EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-name="LOCALVISAO" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LocalVisaoTV.pt.png" group-title="Generalistas",LOCALVISAO
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUGNCc1JiVUxNU2lOY0V3UmlpZFZ2QT0
-#EXTINF:-1 tvg-id="Canal180.pt" tvg-name="PT: CANAL 180" tvg-logo="http://live21.site/picons/PTs/180.png" group-title="Música",PT: CANAL 180
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-name="TV Record" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RecordTVEuropa.pt.png" group-title="Internacional",TV Record
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSk5oVkdLVyt2bjNlV1BybHEwVFduST0
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-name="TV Record FHD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RecordTVEuropa.pt.png" group-title="Internacional",TV Record FHD
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTREs1dDUrYTkxYnVjNzIxU2FYeHNobz0
+#EXTINF:-1 tvg-id="Canal180.pt" tvg-name="CANAL 180" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Canal180_logo.png/" group-title="Música",CANAL 180
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSUxmZkxWRGZLR3M4cFZGb2ptQ3Nocz0
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.pt.png" group-title="Informação",ARTV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTm1hb1NlVHBTMHVGeWZ3NEFUMWFkOD0
+#EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-name="LOCALVISAO" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LocalVisaoTV.pt.png" group-title="Generalistas",LOCALVISAO
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUGNCc1JiVUxNU2lOY0V3UmlpZFZ2QT0
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="KURIAKOS TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KuriakosTV.pt.png" group-title="Informação",KURIAKOS TV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTytjTktsdHNlbDhUMlB5Vmk3Qk1FVT0
 #EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="CANCAO NOVA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCancaoNova.pt.png" group-title="Informação",CANCAO NOVA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSHdUY1VoZHM1dVBjTjZ0ZWR4a3pSST0
+#EXTINF:-1 tvg-id="" tvg-name="TV FATIMA" tvg-logo="https://scontent-lis1-1.xx.fbcdn.net/v/t39.30808-6/348221753_635795514810518_6743582353318932895_n.png?stp=dst-png&cstp=mx180x180&ctp=s180x180&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=qnuaBnc6IQkQ7kNvwFn9lnV&_nc_oc=AdoSaUhDNZnkHpp0ixSJ8ARgT4U7GkFwdPCub_uDkvLzHBWKjS6nYtVYU9yIJ5HLoA7H3Xqqeaw_4N1eOzwQo3-Z&_nc_zt=23&_nc_ht=scontent-lis1-1.xx&_nc_gid=0Vv-4tBDGasX3EOmkIZ7cw&_nc_ss=7b289&oh=00_AQROMqbUO6dRefmMVllUgQ8b2um8fq47eOADpJZVBFqXVQ&oe=6AFFF4E7" group-title="Generalistas",TV FATIMA
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTWFBQ1B6dlo2RWdHUmtUMFdJUDlnVT0
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP MADEIRA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPMadeira.pt.png" group-title="Generalistas",RTP MADEIRA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUERlMngramEvN1B3a0t2MWQyVGZqWT0
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP ACORES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPAcores.pt.png" group-title="Generalistas",RTP ACORES
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSDIxcGZER2Q3Y0FUVjlIOHJ5cHZscz0
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="PT: RTP AFRICA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPAfrica.pt.png" group-title="Internacional",PT: RTP AFRICA
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP AFRICA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPAfrica.pt.png" group-title="Generalistas",RTP AFRICA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRVBZb25pR1pXU2cxcmF1VFBGZC9jND0
-#EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="http://live21.site/picons/PTs/TPA_INTERNACIONAL.png" group-title="Internacional",PT: TPA INTERNACIONAL
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRHZLR3ArQ3lrZW51Y1VvVDA4RVY4dz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zap_Viva_%28logo%29.png/440px-Zap_Viva_%28logo%29.png" group-title="Internacional",PT: ZAP VIVA HD
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQkVQUjZSOFduaWJBZm51V2hVYUtzUT0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA [hevc]" tvg-logo="" group-title="Internacional",PT: ZAP VIVA [hevc]
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRko3eFNBeWhZS1hYck5FdTVFdXh5ND0
+#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_(logo).png" group-title="Generalistas",ZAP VIVA
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQkVQUjZSOFduaWJBZm51V2hVYUtzUT0
 #EXTINF:-1 tvg-id="" tvg-name="ZAP Viva HD_nos" tvg-logo="" group-title="Internacional",ZAP Viva HD_nos
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRlRvWG5pbzFrZTBnWCt2Ky9ldHdNST0
-#EXTINF:-1 tvg-id="" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="http://live21.site/LOGOS/picons/TCV.png" group-title="Internacional",PT: TCV INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="TCV INTERNACIONAL" tvg-logo="https://rtc.cv/upload/img/programas/tcv_logo.png" group-title="Generalistas",TCV INTERNACIONAL
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQWpqWHYyMFZZOGRFdEZUSkROMll5WT0
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPMundo.pt.png" group-title="Informação",RTP INTERNACIONAL
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQm1xUncrNG94bU5VVTZwd1Qxam43Yz0
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SICInternacional.pt.png" group-title="Generalistas",SIC INTERNACIONAL
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTT3paT0NOTC9vL29iYTRqaUo2VEJkcz0
+#EXTINF:-1 tvg-id="" tvg-name="TPA INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/TPAi_2022-2.svg" group-title="Generalistas",TPA INTERNACIONAL
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRHZLR3ArQ3lrZW51Y1VvVDA4RVY4dz0
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="TVI AFRICA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIAfrica.pt.png" group-title="Generalistas",TVI AFRICA
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQzM1MmpCM2tVRWY0TkxHQUluWTlaMD0
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIInternacional.pt.png" group-title="Generalistas",TVI Internacional
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRVNSVFkxdzl0VThubXMzYk1CSitIQT0
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="http://live21.site/picons/PTs/TVE_nos.png" group-title="Internacional",PT: TVE INTERNACIONAL
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTDNtOTBCUXZNVnZtR3JVWjBScWVCZz0
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional_meo" tvg-logo="" group-title="Internacional",TVE Internacional_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTFRJVjF3TVp1dDZvdWY2V3JsVDQzZz0
 #EXTINF:-1 tvg-id="TVE24h.pt" tvg-name="PT: TVE 24 HORAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE24h.pt.png" group-title="Internacional",PT: TVE 24 HORAS
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS09WZzhGei9iTk1QN0hJZXRYK1pZTT0
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GALICIA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/GaliciaTVEuropa.es.png" group-title="Internacional",PT: TV GALICIA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTU5jMkhRdVdkdG04Q3I5MkdrNGdJST0
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EuronewsPortuguese.fr.png" group-title="Informação",EURONEWS
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTFljU3hpWnQ2YXFkVGl4dXJMZXlocz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNNInternational.us.png" group-title="Internacional",PT: CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNNInternational.us.png" group-title="Informação",CNN
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ1BJTUpsbTY4clV0N1B4amNZOVpXZz0
-#EXTINF:-1 tvg-id="" tvg-name="CNN_meo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNNInternational.us.png" group-title="Internacional",CNN_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQXp4RFdzc3QwZE52cFloOVY1dVBodz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SkyNewsInternational.uk.png" group-title="Internacional",PT: SKY NEWS
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SkyNewsInternational.uk.png" group-title="Informação",SKY NEWS
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSDl5THdKbW9BVDdLcDd1b2xXOGZsYz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: FRANCE 24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France24.fr.png" group-title="Internacional",PT: FRANCE 24
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France24.fr.png" group-title="Informação",FRANCE 24
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS05adUZFMkN2MGlwS2c4RjBNTVVLcz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: DEUTCHE WELLE" tvg-logo="" group-title="Internacional",PT: DEUTCHE WELLE
+#EXTINF:-1 tvg-id="" tvg-name="DEUTCHE WELLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/" group-title="Generalistas",DEUTCHE WELLE
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRHM4UlVRN3F2U0w3RWg0SU1zQnk2WT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC" tvg-logo="" group-title="Internacional",PT: CNBC
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/CNBC_-_2025.svg" group-title="Generalistas",CNBC
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSDQ3UFlsU1VZNXNWM3NCbmErYXlpdz0
-#EXTINF:-1 tvg-id="" tvg-name="CNBC_meo" tvg-logo="" group-title="Internacional",CNBC_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRGZWRUROUFE2UWMraGY0cDh4ZFJuTT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BloombergTV.us.png" group-title="Internacional",PT: BLOOMBERG
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BloombergTV.us.png" group-title="Informação",BLOOMBERG
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUDNFTjVabEdRamgvb1lxTHFXRGdMdz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: M6" tvg-logo="http://live21.site/picons/PTs/m6.png" group-title="Internacional",PT: M6
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBCNews.uk.png" group-title="Informação",BBC WORLD NEWS
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEV5eSs4eStkc29VcTh4RENaY1h5RT0
+#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="GLOBO NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/GloboNews2022.svg" group-title="Informação",GLOBO NEWS
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRWhEUlNYQ3Y2WHUzM0NwYjl1RXhzTT0
+#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="GLOBO NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Globo_Now_logo_2018.png" group-title="Informação",GLOBO NOW
+http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTUdXQThPeDZTc1kxQ1RHeVpZTHlwZz0
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/M6_2020.svg/" group-title="Generalistas",M6
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ1FpZzcyUDdBWWJad2RQQVpkV05TQT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV5 MONDE" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5Monde.fr.png" group-title="Internacional",PT: TV5 MONDE
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5Monde.fr.png" group-title="Generalistas",TV5 MONDE
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTR2hwSnJFaGl4UlhpeEZxaWxRdmFHND0
-#EXTINF:-1 tvg-id="" tvg-name="PT: NHK World Japan" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHKWorldJapan.jp.png" group-title="Internacional",PT: NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHKWorldJapan.jp.png" group-title="Informação",NHK World Japan
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTR3Z1alNsaXB6dS93SlhNT1dScFQyWT0
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/DOGTV_2021.svg/" group-title="Outros",DOG TV
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/DOGTV_2021.svg/" group-title="Documentários",DOG TV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEtnUHhSWithcDRpSk9xdnZ6NnNKbz0
 #EXTINF:-1 tvg-id="" tvg-name="Onetoro TV" tvg-logo="https://m.media-amazon.com/images/I/41PZ0JG6d5L.png" group-title="Desporto",Onetoro TV
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ2doRXNaUDUyM3Z2SVRMMkRObC85RT0
 #EXTINF:-1 tvg-id="" tvg-name="CAZA E PESCA" tvg-logo="" group-title="Desporto",CAZA E PESCA
 http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTREw1bmkzQnArdzNOb0MxL2NsK2IrOD0
-#EXTINF:-1 tvg-id="Canalnostv.pt" tvg-name="CANAL NOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/NOS.svg" group-title="Informação",CANAL NOS
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTmNYaTM2VlMvUFdLMnBzNlFaK2ZVTT0
-#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="TVI AFRICA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIAfrica.pt.png" group-title="Fora da grelha NOS",TVI AFRICA
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQzM1MmpCM2tVRWY0TkxHQUluWTlaMD0
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="GLOBO NEWS" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDzbTId0CFHoa_CFzy-BBxF.png" group-title="Fora da grelha NOS",GLOBO NEWS
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRWhEUlNYQ3Y2WHUzM0NwYjl1RXhzTT0
-#EXTINF:-1 tvg-id="VinTV.pt" tvg-name="VinTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/VinTV_Portugal_2026.svg/" group-title="Fora da grelha NOS",VinTV
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQW9NdVNKNkRKNTJCK3VJYmlBWmJ4UT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO" tvg-logo="https://opto.sic.pt/logos/opto-logo.png" group-title="Fora da grelha NOS",PT: OPTO
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTU02ZzVPOWN6bk9nRTlFMTJUVmJnaz0
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="CINEMUNDO" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CineMundo.pt.png" group-title="Filmes e Séries",CINEMUNDO
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS2hPOGMxZUtCT0JiSWdoQkdTT2Iybz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV MULTICAM" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="Fora da grelha NOS",PT: SPORT TV MULTICAM
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSGNJVFdsQ3c3TkJiWFRRUDgvWTQrOD0
-#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="http://live21.site/picons/PTs/PFC_nos.png" group-title="Fora da grelha NOS",PT: PFC
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTVYyQzBxVDRHY2ZVbWM1dksydWx5az0
-#EXTINF:-1 tvg-id="" tvg-name="PT: GINX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/GINX_TV.svg" group-title="Fora da grelha NOS",PT: GINX
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRnFIWWR0eTB3UjlXbXZxeEZmbWZIaz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="http://live21.site/picons/PTs/CACAVISION_meo.png" group-title="Fora da grelha NOS",PT: CACAVISION
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRHJlMmpUNTFIRS9wZi8zZFo3cDRPaz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBCNews.uk.png" group-title="Fora da grelha NOS",PT: BBC WORLD NEWS
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEV5eSs4eStkc29VcTh4RENaY1h5RT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Fora da grelha NOS",PT: MTV 00s
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTT0tROTN6TThoWWpnbHU3ZTNPbE0wRT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV FATIMA" tvg-logo="http://live21.site/LOGOS/picons/FATIMA_TV_WEB_CAM.png" group-title="Fora da grelha NOS",PT: TV FATIMA
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTWFBQ1B6dlo2RWdHUmtUMFdJUDlnVT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos Kids" tvg-logo="s:1:/images/1TgTfsuAygxM6RJtbyD5XOb4uH9w8VLAXFvB0UMOn5OFA3LdVw4pJMTgQpF078abdbc4gV9484S2zKRWM4F4MjKkAt2oat52nVZ2amlU-Bg.jpg" group-title="Fora da grelha NOS",PT: Kuriakos Kids
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSVdtdXVQTlZEYWExbWo5cjZMaVo4dz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: CLUBBING TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ClubbingTV.us.png" group-title="Fora da grelha NOS",PT: CLUBBING TV
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQ3M3NUx1cWphSFQweXdHUjExWDBOdz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RedBullTV.at.png" group-title="Fora da grelha NOS",PT: REDBULL TV HD
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSmttL3RPV2NseUQ1bDRyRmNQN2NFdz0
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxDnecYSmpgvhTHKFvVW2K8.png" group-title="Fora da grelha NOS",REAL MADRID
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTVBucHFFbUlTZGhjOU1xT1lwQXhLdz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV LIVE" tvg-logo="http://local2.myvnc.com:2022/images/ae0eea6eb6d63f98da42de867c47a0f8.jpg" group-title="Fora da grelha NOS",PT: MTV LIVE
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQUtIR0RxdzRoanAxd0JaelZPU0x3RT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO TV HD" tvg-logo="s:1:/images/QCGm8m9T49XhnLQmrWzqsiQQvi41tVFIg1Qe2-h_QOdTI1WmPsznDA-JgneMaJDUygvVj1AZjb-ohaZ9oH65xg.png" group-title="Fora da grelha NOS",PT: CAMPO PEQUENO TV HD
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQW5IQURMd2tEYmk0UzRQMmtqQVFPbz0
-#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="PT: ALMA LUSA" tvg-logo="" group-title="Fora da grelha NOS",PT: ALMA LUSA
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTUFZTcGRWM0cyZDF0VU01RTY5U2NBcz0
-#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="PT: RTP INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPMundo.pt.png" group-title="Fora da grelha NOS",PT: RTP INTERNACIONAL
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQm1xUncrNG94bU5VVTZwd1Qxam43Yz0
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SICInternacional.pt.png" group-title="Fora da grelha NOS",SIC INTERNACIONAL
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTT3paT0NOTC9vL29iYTRqaUo2VEJkcz0
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="PT: TVI Internacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVIInternacional.pt.png" group-title="Fora da grelha NOS",PT: TVI Internacional
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRVNSVFkxdzl0VThubXMzYk1CSitIQT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: CHANNEL 1 RUSSIA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png" group-title="Fora da grelha NOS",PT: CHANNEL 1 RUSSIA
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTR0FWaUM2UXh2b05meXVFNStZYmtaaz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: LOLLY KIDS" tvg-logo="http://live21.site/picons/PTs/Lolly-Kids.png" group-title="Fora da grelha NOS",PT: LOLLY KIDS
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRUtVTUNPT3JKZUdySlZJWUF6THYyND0
-#EXTINF:-1 tvg-id="" tvg-name="PT: Kanuca TV" tvg-logo="https://kanuca.ao/home/wp-content/uploads/2023/09/logo.png" group-title="Fora da grelha NOS",PT: Kanuca TV
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTREV3eU91MldtbGplUkhnOHRiNEZCWT0
-#EXTINF:-1 tvg-id="" tvg-name="PT: Novo Tempo Portugal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8h-VsaJ5CDpC7gXWHRFmQNXke4J_JcXqnWvV_WHhQfQGaoce_W2yVY9ZT24Cvxb0mvoY&usqp=CAU" group-title="Fora da grelha NOS",PT: Novo Tempo Portugal
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTEdPK0VXMkdUM3hvUGROM01iZFdsYz0
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="PT: CINEMUNDO HD [hevc]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CineMundo.pt.png" group-title="Fora da grelha NOS",PT: CINEMUNDO HD [hevc]
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQldaeFM1VW1ia0NRcnl1V1p5QllkUT0
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6" tvg-logo="" group-title="Fora da grelha NOS",DAZN 6
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS0J4L25BbjVPV3FMV0txbC9XRVY4cz0
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="PT: GLOBO NOW HD [hevc]" tvg-logo="" group-title="Fora da grelha NOS",PT: GLOBO NOW HD [hevc]
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTUdXQThPeDZTc1kxQ1RHeVpZTHlwZz0
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA [hevc]" tvg-logo="" group-title="Fora da grelha NOS",PT: SPORT TV NBA [hevc]
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTQWd3NkdxNGYycVpON1ErRVVKbTN6bz0
-#EXTINF:-1 tvg-id="" tvg-name="Biggs_meo" tvg-logo="" group-title="Fora da grelha NOS",Biggs_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTVcyYU94UUlHWUdDZ2E5bTRpLzBsMD0
-#EXTINF:-1 tvg-id="" tvg-name="Cacavision_meo" tvg-logo="" group-title="Fora da grelha NOS",Cacavision_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTS1ZrdmxVSS9DNkcwMUJPajRIeWl3ND0
-#EXTINF:-1 tvg-id="" tvg-name="Channel 1 Russia_meo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png" group-title="Fora da grelha NOS",Channel 1 Russia_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSlRaQ0gxa284a3pNd3FQeUhuWTRscz0
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cinemundo_meo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CineMundo.pt.png" group-title="Fora da grelha NOS",Cinemundo_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSnFpRWVKeEdsNC8xOERtSG5YWkx5MD0
-#EXTINF:-1 tvg-id="" tvg-name="HOT_meo" tvg-logo="" group-title="Fora da grelha NOS",HOT_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRTM2Y3dScUhrS3EzbUd1eE9zYkpNRT0
-#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids_meo" tvg-logo="" group-title="Fora da grelha NOS",Lolly Kids_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSjBYL0NvdkRxcHp3ckdPY3JqbUVxRT0
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s_nos" tvg-logo="" group-title="Fora da grelha NOS",MTV 00s_nos
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTTk90ODVWTHAya2JOVU1zYXovTGRmaz0
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV_meo" tvg-logo="" group-title="Fora da grelha NOS",Playboy TV_meo
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTRVlzeHBINUVGNFVHSVBtRDJFT05zdz0
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="PTL: Cinemundo LOW" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CineMundo.pt.png" group-title="Fora da grelha NOS",PTL: Cinemundo LOW
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSFNUbVpUWWQ0emhEdDZyVllhYnJ6ND0
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="PTL: Globo NOW LOW" tvg-logo="https://asiagrandiptv.us/logo/globonow.png" group-title="Fora da grelha NOS",PTL: Globo NOW LOW
-http://flix.ath.cx:8080/SFU3cys0T1BJSUNLSnBHdzZMMTlTSW5IV0drRDVML1JsRG9FeFF2QUdjMD0
